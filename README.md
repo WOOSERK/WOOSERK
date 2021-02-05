@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![](http://mazassumnida.wtf/api/mini/generate_badge?boj=syeokim)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=syeokim)](https://solved.ac/wooserk)<!— [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syeokim)](https://solved.ac/profile/wooserk)  —>
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=wooserk)](https://solved.ac/wooserk)<!— [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wooserk)](https://solved.ac/profile/wooserk)  —>
