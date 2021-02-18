@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wooserk)](https://solved.ac/wooserk)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wooserk)](https://solved.ac/profile/wooserk)
+
+<img src="https://img.shields.io/badge/yellow?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
