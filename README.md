@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat-square&logo=Microsoft&nbspExcel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MicrosoftOffice-D83B01?style=flat-square&logo=Microsoft&nbspOffice&logoColor=white"/></a>
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
