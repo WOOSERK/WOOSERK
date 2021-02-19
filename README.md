@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![HitCount](http://hits.dwyl.com/WOOSERK/WOOSERK/WOOSERK.svg)](http://hits.dwyl.com/WOOSERK/WOOSERK/WOOSERK)
+[![HitCount](http://hits.dwyl.com/WOOSERK/WOOSERK.svg)](http://hits.dwyl.com/WOOSERK/WOOSERK)
 ![](http://mazassumnida.wtf/api/mini/generate_badge?boj=wooserk)
 
 [![Solved.ac
