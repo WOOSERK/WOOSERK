@@ -31,11 +31,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<!--<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>-->
-
-<img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=flat-square&logo=Microsoft&nbspExcel&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MicrosoftOffice-D83B01?style=flat-square&logo=Microsoft&nbspOffice&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
